@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Hospital Management System. 
 - 🌱 I’m currently learning DevOps
 - 💬 Ask me about Python
-- 📫 How to reach me: danientege785@gmail.com , dntege@bugemauniv.ac.
+- 📫 How to reach me: danientege785@gmail.com , dntege@bugemauniv.ac.ug
