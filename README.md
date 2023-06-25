@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 -Am Ntege Daniel 
 - A Backend and Frontend Engineer (Fullstack development)
-- 🔭 I’m currently working on Hospital Management System. 
+- 🔭 I’m currently an Intern at AirQo Organization. 
 - 🌱 I’m currently learning DevOps
 - 💬 Ask me about Python, Javascript (React, Nextjs, Vue, React-Native)
 - 📫 How to reach me: danientege785@gmail.com , dntege@bugemauniv.ac.ug
