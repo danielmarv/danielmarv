@@ -1,12 +1,11 @@
 ### Daniel Marvin 👋
 
-Here are some ideas to get you started:
--Am Ntege Daniel 
+- Am Ntege Daniel 
 - A Backend and Frontend Engineer (Fullstack development)
 - 🔭 I’m currently an Intern at AirQo Organization. 
 - 🌱 I’m currently learning DevOps, Next.Js 13.4
-- 💬 Ask me about Python, Javascript (React, Nextjs, Vue, React-Native)
-- 📫 How to reach me: danientege785@gmail.com , dntege@bugemauniv.ac.ug
+- 💬 Ask me about Python (Django, Tkinter), Javascript (React, Nextjs, Vue, React-Native)
+- 📫 How to reach me: danientege785@gmail.com, dntege@bugemauniv.ac.ug
 
   
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/)
