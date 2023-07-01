@@ -1,4 +1,4 @@
-### Daniel Marvin 👋
+### @danielmarv 👋
 
 - Am Ntege Daniel 
 - A Backend and Frontend Engineer (Fullstack development)
