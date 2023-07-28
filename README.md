@@ -2,7 +2,6 @@
 
 - Am Ntege Daniel 
 - A Backend and Frontend Engineer (Fullstack development)
-- 🔭 I’m currently an Intern at AirQo Organization. 
 - 🌱 I’m currently learning DevOps, Next.Js 13.4, Flutter, Firebase
 - 💬 Ask me about Python (Django, Tkinter), Javascript (React, Nextjs, Vue, React-Native)
 - 📫 How to reach me: danientege785@gmail.com, dntege@bugemauniv.ac.ug
