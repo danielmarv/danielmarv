@@ -1,6 +1,6 @@
 ### @danielmarv 👋
 
-- Am Ntege Daniel 
+- Am Ntege Daniel Marvin
 - A Backend and Frontend Engineer (Fullstack development)
 - 🌱 I’m currently learning DevOps, Next.Js 13.4, Flutter, Firebase, Laravel.
 - 💬 Ask me about Python (Django, Tkinter), Javascript (React, Nextjs, Vue, React-Native)
