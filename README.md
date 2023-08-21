@@ -1,10 +1,11 @@
 ### @danielmarv 👋
 
-- 💬 Am Ntege Daniel Marvin
-- 💬 Backend and Frontend Engineer (Fullstack development)
+- 💬 Am Ntege Daniel Marvin.
+- 💬 Backend and Frontend Engineer (Fullstack development).
 - 🌱 I’m currently learning Next.Js 13.4, Flutter, Firebase, Laravel.
-- 💬 Ask me about Python (Django, Tkinter), Javascript (React, Nextjs, Vue, React-Native)
-- 📫 How to reach me: danientege785@gmail.com, dntege@bugemauniv.ac.ug
+- 💬 Ask me about Python (Django, Tkinter), Javascript (React, Nextjs, Vue, React-Native).
+- 📫 How to reach me: danientege785@gmail.com, dntege@bugemauniv.ac.ug.
+- I'm very focussed about solving problems in the African context using technology as a tool.
 
   
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/)
