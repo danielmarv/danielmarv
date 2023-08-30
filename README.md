@@ -2,7 +2,7 @@
 
 - 💬 Am Ntege Daniel Marvin.
 - 💬 Fullstack Engineer.
-- 💬 Google Developer Students Club Lea, Bugema University.
+- 💬 Google Developer Students Club Lead, Bugema University.
 - 🌱 I’m currently learning Next.Js 13.4, Flutter, Firebase, Laravel.
 - 💬 Ask me about Python (Django, Tkinter), Javascript (React, Nextjs, Vue, React-Native).
 - 📫 How to reach me: danientege785@gmail.com, dntege@bugemauniv.ac.ug.
