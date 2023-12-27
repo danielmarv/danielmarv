@@ -1,6 +1,6 @@
 ### @danielmarv 👋
 
-- 💬 Am Ntege Daniel Marvin.
+- 💬 Am Ntege Daniel Marvin (danielmarv).
 - 💬 Fullstack Engineer.
 - 💬 Google Developer Students Club Lead, Bugema University.
 - 🌱 I’m currently learning Next.Js 13, Flutter, Firebase, Laravel.
