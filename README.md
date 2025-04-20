@@ -4,7 +4,7 @@
 - 💬 Dev.
 - 💬Ex Google Developer Students Club Lead, Bugema University.
 - 🌱 I’m currently learning Next.Js 14, Flutter, Firebase, Laravel.
-- 💬 Ask me about Python (Django, Tkinter), Javascript (React, Nextjs, Vue, React-Native).
+- 💬 Ask me about Flutter, Python (Django, Tkinter), Javascript (React, Nextjs, Vue, React-Native).
 - 📫 Contact: danientege785@gmail.com, dntege@bugemauniv.ac.ug.
 - I'm very focussed about solving problems in the African context using technology as a tool with passion.
 
