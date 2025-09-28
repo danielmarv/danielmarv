@@ -20,5 +20,5 @@
 
 ![Most used languages in my Github Account](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmarv&layout=compact&theme=gotham&count_private=true)
 
-## Holopin Profile Board
+## Holopin Profile Board 
 [![An image of @danielmarv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/danielmarv)](https://holopin.io/@danielmarv)
