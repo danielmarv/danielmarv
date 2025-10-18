@@ -2,7 +2,6 @@
 
 - 💬 Am Daniel Marvin Ntege (danielmarv) .
 - 💬 Dev.
-- 💬Ex Google Developer Students Club Lead, Bugema University.
 - 📫 Contact: danientege785@gmail.com, dntege@bugemauniv.ac.ug, daniel.ntege@open-elements.com.
   
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/)
