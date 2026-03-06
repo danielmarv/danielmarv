@@ -1,21 +1,101 @@
-### @danielmarv 👋
+<h1 align="center">Hi 👋, I'm Daniel Marvin Ntege</h1>
+<h3 align="center">Software Engineer | Backend & Systems Developer | Open Source Contributor</h3>
 
-- 💬 Am Daniel Marvin Ntege (danielmarv) .
-- 💬 Dev.
-- 📫 Contact: danientege785@gmail.com, dntege@bugemauniv.ac.ug, daniel.ntege@open-elements.com.
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=blue)](https://twitter.com/danielmarvin785)
-[![G-Mail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&color=blue)](mailto://danientege785@gmail.com)
-
-![My Profile Overview](https://github-readme-stats.vercel.app/api?username=danielmarv&show_icons=true&theme=blue-green&count_private=true)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" >
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://raw.githubusercontent.com/ReallyLiri/devicon/49d6118b67c3b4ab0134b5a64fe0b117caf73ae1/icons/sqlserver/sqlserver-plain-wordmark.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+<p align="center">
+Building scalable systems, developer tools, and digital platforms for real-world impact.
 </p>
 
-![Most used languages in my Github Account](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmarv&layout=compact&theme=gotham&count_private=true)
+---
 
-## Holopin Profile Board 
-[![An image of @danielmarv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/danielmarv)](https://holopin.io/@danielmarv)
+## 🚀 About Me
+
+- 💻 Software Engineer focused on **Backend Systems, APIs, and Scalable Platforms**
+- 🌍 Passionate about **Agriculture Technology, Climate Tech, and Digital Infrastructure**
+- 🧠 Interested in **Distributed Systems, AI Systems, and Blockchain/DLT**
+- 🌱 Currently building **ClyCites – an Agricultural Intelligence Platform**
+- 🔬 Frontend Engineer Intern at **AirQo**
+- 🎓 BSc Software Engineering — **Bugema University**
+
+## 🧠 Tech Stack
+
+### Languages
+- JavaScript
+- TypeScript
+- Python
+- SQL
+- Golang
+
+### Backend
+- Node.js
+- Express
+- REST APIs
+- Microservices
+- Flask
+- FastAPI
+
+### Databases
+- PostgreSQL
+- MongoDB
+- SQL Server
+
+### DevOps
+- Docker
+- GitHub Actions
+- Linux
+- CI/CD Pipelines
+
+### Tools
+- Git
+- Postman
+- Jest
+- Firebase
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=danielmarv&show_icons=true&theme=github_dark&count_private=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmarv&layout=compact&theme=github_dark&count_private=true"/>
+
+</p>
+
+---
+
+## 🌍 Open Source & Community
+
+- Contributor to **Open Source ecosystems**
+- Active in **developer communities**
+- Interested in **protocols, SDKs, and developer tooling**
+
+---
+
+## 🔗 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/ntege-daniela85486242">
+<img src="https://img.shields.io/badge/LinkedIn-Daniel%20Ntege-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://twitter.com/danielmarvin785">
+<img src="https://img.shields.io/badge/Twitter-@danielmarvin785-blue?style=for-the-badge&logo=twitter"/>
+</a>
+
+<a href="mailto:danientege785@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+## 🪪 Holopin Badges
+
+[![Holopin badges](https://holopin.me/danielmarv)](https://holopin.io/@danielmarv)
+
+---
+
+⭐ *“Building systems that empower people and transform industries.”*
