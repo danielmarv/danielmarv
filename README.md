@@ -19,36 +19,19 @@ Building scalable systems, developer tools, and digital platforms for real-world
 ## 🧠 Tech Stack
 
 ### Languages
-- JavaScript
-- TypeScript
-- Python
-- SQL
-- Golang
+- JavaScript, TypeScript, Python, SQL, Go, etc
 
 ### Backend
-- Node.js
-- Express
-- REST APIs
-- Microservices
-- Flask
-- FastAPI
+- Node.js, Express, REST APIs, Microservices, Flask, FastAPI
 
 ### Databases
-- PostgreSQL
-- MongoDB
-- SQL Server
+- PostgreSQL, MongoDB, MySQL, SQL Server
 
 ### DevOps
 - Docker
 - GitHub Actions
 - Linux
 - CI/CD Pipelines
-
-### Tools
-- Git
-- Postman
-- Jest
-- Firebase
 
 ---
 
@@ -90,12 +73,3 @@ Building scalable systems, developer tools, and digital platforms for real-world
 
 </p>
 
----
-
-## 🪪 Holopin Badges
-
-[![Holopin badges](https://holopin.me/danielmarv)](https://holopin.io/@danielmarv)
-
----
-
-⭐ *“Building systems that empower people and transform industries.”*
