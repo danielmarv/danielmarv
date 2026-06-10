@@ -13,7 +13,7 @@ Building scalable systems, developer tools, and digital platforms for real-world
 - 🌍 Passionate about **Agriculture Technology, Climate Tech, and Digital Infrastructure**
 - 🧠 Interested in **Distributed Systems, AI Systems, and Blockchain/DLT**
 - 🌱 Currently building **ClyCites – an Agricultural Intelligence Platform**
-- 🔬 JunioR Developer  at **Open Elements**
+- 🔬 Junior Developer  at **Open Elements**
 - 🎓 BSc Software Engineering — **Bugema University**
 
 ## 🧠 Tech Stack
